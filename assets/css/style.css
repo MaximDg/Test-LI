@@ -1,0 +1,69 @@
+.f-btn {
+	margin-left: 20%;
+	margin-top: 200px;
+}
+.btn-social.btn-lg {
+	text-align: center;	 
+}
+.post-div {
+	margin-left: 20%;
+	margin-top: 10px;
+}
+.panel.panel-default.col-sm-4 {
+	padding: 0px;
+	margin-top: 10px;	
+}
+.panel-body-my {
+	font-size: 12px;
+	padding: 5px;
+}
+.panel-heading-my {
+	padding: 7px;	
+}
+.panel-heading-my span {
+	text-align: right;
+	font-size: 10px;
+	float: right;
+}
+.btn-comment {
+	float: right;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+.col-sm-6.comment-div {
+	width: 20%;
+	border-radius: 5px;
+	background: #ddd;
+	padding-bottom: 10px;
+	position: fixed;
+	z-index: 1;
+	display: none;
+}
+@media (max-width: 768px) {
+    .post-div {
+        margin-left: 0px;
+    }
+}
+.btn-close {
+	margin-top: 10px;
+	float: right;
+}
+.btn-plus-minus {
+	float: right;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+.comment-panel-none-block {
+	display: block;
+}
+.text-next {
+	display: none;
+}
+.btn-edit {
+	float: right;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
